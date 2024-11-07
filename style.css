@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: bisque;
+}
+
+canvas {
+    border: 1px solid black;
+    background-color: cadetblue;
+}
+
+input {
+    background-color: aliceblue;
+}
